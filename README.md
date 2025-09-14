@@ -27,9 +27,7 @@ Whether I’m designing secure APIs, architecting cloud-native solutions, or exp
 
 ### Backend Development  
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Frontend Development  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -38,8 +36,7 @@ Whether I’m designing secure APIs, architecting cloud-native solutions, or exp
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ### Database  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 
 ### Cloud & DevOps  
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
